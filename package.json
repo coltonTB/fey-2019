@@ -10,7 +10,7 @@
     "@sanity/client": "^0.132.2",
     "@sanity/image-url": "^0.132.2",
     "babel-plugin-inline-react-svg": "^1.1.0",
-    "next": "^6.0.3",
+    "next": "^9.3.2",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-facebook-pixel": "^0.1.3",
